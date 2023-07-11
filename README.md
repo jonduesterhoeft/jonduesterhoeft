@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonduesterhoeft&show_icons=true&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonduesterhoeft&show_icons=true&theme=dark&hide_border=true" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jonduesterhoeft&theme=dark&hide_border=true" width="400">
 </p>
 
